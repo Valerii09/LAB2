@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="button_addtextview">Добавить TextView</string>
+    <string name="button_addButton">Добавить Button</string>
+</resources>
